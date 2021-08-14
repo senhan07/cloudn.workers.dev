@@ -18,11 +18,11 @@ a {
 #userPhoto {
   display: block;
   max-width: 50%;
-  width: 350px;
+  width: 300px;
   max-width: 100%;
   height: auto;
   margin: 50px auto;
-  pointer-events: none
+  
 }
 
 #userName {
